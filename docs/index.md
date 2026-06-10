@@ -19,7 +19,7 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
+  <img src="assets/images/profile.jpeg" alt="BAGUS WIJANARKO" class="profile-photo">
   <h1>[YOUR NAME]</h1>
   <p><strong>[YOUR JOB TITLE]</strong></p>
   <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
