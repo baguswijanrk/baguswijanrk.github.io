@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.jpeg" alt="BAGUS WIJANARKO" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Bagus Wijanarko</h1>
+  <p><strong>LiDAR Quality Assurance Engineer</strong></p>
+  <p><em>[Life-long learner | Geodata Engineering | Remote Sensing | R]</em></p>
 </div>
 
 ---
@@ -36,11 +36,7 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I'm a Geodetic Engineer with interest in Geospatial Data Science, Remote Sensing and Applied GIS/Photogrammetry, currently learning R Language and Data Engineering to improve my role as LiDAR Quality Assurance Engineer. I'm very passionate at developing geospatial process automation, LiDAR explanatory data analysis, and discovering new insights of it to ensure the geospatial information quality derrived from it.
 
 </div>
 
@@ -53,7 +49,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Bagus-CV.pdf){ .md-button }
 
 
 ---

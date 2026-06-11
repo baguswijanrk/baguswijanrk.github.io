@@ -23,10 +23,10 @@ Feel free to reach out through any of the channels below.
 | | |
 |---|---|
 | :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
+| :fontawesome-brands-github: **GitHub** | [github.com/baguswijanrk](https://github.com/baguswijanrk) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/baguswijanrk](https://linkedin.com/in/baguswijanrk) |
 | :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Bagus-CV.pdf){ .md-button .md-button--primary }
